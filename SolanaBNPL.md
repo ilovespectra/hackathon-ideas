@@ -1,8 +1,8 @@
-# SolanaBNPL - Buy Now Pay Later on the Solana Blockchain
+# SolanaBNPL - Buy Now Pay Later on Solana
 
 ## Description
 
-SolanaBNPL is a decentralized financial application built on the Solana blockchain that offers a Buy Now Pay Later (BNPL) service. It enables users to make purchases and defer payments over a predefined period, making it easier for both lenders and borrowers to manage their finances. The application leverages the speed, security, and transparency of the Solana blockchain to provide a seamless and efficient BNPL experience.
+SolanaBNPL is a decentralized financial application built on Solana that offers a Buy Now Pay Later (BNPL) service. It enables users to make purchases and defer payments over a predefined period, making it easier for both lenders and borrowers to manage their finances. The application leverages the speed, security, and transparency of Solana to provide a seamless and efficient BNPL experience.
 
 ## Key Features
 
@@ -61,4 +61,4 @@ SolanaBNPL is a decentralized financial application built on the Solana blockcha
    - Creates comprehensive documentation explaining how to use the application.
    - Offers educational resources on BNPL best practices, Solana, and blockchain security.
 
-SolanaBNPL is designed to empower both lenders and borrowers by offering a secure and transparent BNPL solution on the Solana blockchain. It introduces innovative features such as purchase splitting, staked loans, and a liquidity pool, enhancing the overall user experience and financial opportunities.
+SolanaBNPL is designed to empower both lenders and borrowers by offering a secure and transparent BNPL solution on Solana. It introduces innovative features such as purchase splitting, staked loans, and a liquidity pool, enhancing the overall user experience and financial opportunities.
